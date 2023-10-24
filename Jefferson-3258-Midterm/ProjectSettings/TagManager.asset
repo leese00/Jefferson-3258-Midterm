@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - coin
+  - switch
+  - trap
+  - ground
+  - bullet
   layers:
   - Default
   - TransparentFX
@@ -11,11 +16,11 @@ TagManager:
   - ground
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - coin
+  - switch
+  - trap
+  - enemy
+  - bullet
   - 
   - 
   - 
