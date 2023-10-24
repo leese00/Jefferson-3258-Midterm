@@ -9,6 +9,7 @@ TagManager:
   - trap
   - ground
   - bullet
+  - boulder
   layers:
   - Default
   - TransparentFX
