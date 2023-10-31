@@ -278,3 +278,48 @@ Received Import Request.
 Start importing Assets/Materials/ground_other_4689_6344_Small.mat using Guid(239f0dcd5bf1d7a46a61e82fb12a663f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '048fa4809531654999eb80286dbd03f6') in 0.014136 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 706.103796 seconds.
+  path: Assets/Skins/Basic
+  artifactKey: Guid(0fc9ea839ec1dcd468efd39b7010838b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skins/Basic using Guid(0fc9ea839ec1dcd468efd39b7010838b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a002f97eb86518bad26e51d94998c0c') in 0.000765 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.019369 seconds.
+  path: Assets/Skins/Basic/skin_adventurer.png
+  artifactKey: Guid(91ff462a96b6c4440a8efa20436eea0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skins/Basic/skin_adventurer.png using Guid(91ff462a96b6c4440a8efa20436eea0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5deaf26d727dda446805bc9053f42753') in 0.031487 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Skins/Basic/skin_woman.png
+  artifactKey: Guid(4cd98e63857244841af58103a6b5e43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skins/Basic/skin_woman.png using Guid(4cd98e63857244841af58103a6b5e43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c109b1dbf1e7f8ced0098199fa9faec9') in 0.023060 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Skins/Basic/skin_womanAlternative.png
+  artifactKey: Guid(4ad184d629bcdcd499c785b3068f6a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skins/Basic/skin_womanAlternative.png using Guid(4ad184d629bcdcd499c785b3068f6a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82011a06a36676cb6ed021b5196d6565') in 0.021267 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Skins/Basic/skin_soldier.png
+  artifactKey: Guid(259cb74b3b4ef9044b266dbcab8f0a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skins/Basic/skin_soldier.png using Guid(259cb74b3b4ef9044b266dbcab8f0a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddd284e40e50dcd923442158c5ff863e') in 0.018187 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
